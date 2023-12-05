@@ -24,7 +24,7 @@ class AmazonSearchProductSpider(scrapy.Spider):
 
         # Headers for ScrapeOps
         scrapeops_headers = {
-            'x-api-key': 'b497a621-cb51-4f88-9115-b89f6d0dd79d',
+            'x-api-key': 'b',
         }
 
         headers = {
